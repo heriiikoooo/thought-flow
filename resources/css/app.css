@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@import "@fontsource/montserrat"; /* default weight 400 */
+@import "@fontsource/montserrat/600.css"; /* semi-bold */
+@import "@fontsource/montserrat/700.css"; /* bold */
